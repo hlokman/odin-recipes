@@ -4,6 +4,18 @@
     margin-right: auto;
 }
 
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    width: 75%;
+    background-color: antiquewhite;
+}
+
 * {
     text-align: center;
 }
@@ -11,4 +23,8 @@
 ul {
     display: table;
     margin: 0 auto;
+}
+
+* {
+    background-color: aliceblue;
 }
