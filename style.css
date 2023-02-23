@@ -23,8 +23,15 @@ h1 {
 ul {
     display: table;
     margin: 0 auto;
+    list-style-type: none;
 }
 
-* {
+button {
+    background: antiquewhite;
+    color: black;
+    font-weight: bold;
+}
+
+body {
     background-color: aliceblue;
 }
