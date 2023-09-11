@@ -17,3 +17,5 @@ Then, later on, I added some style with CSS:
 - Adding background color, resizing the images
 - Changing the Homepage (index.html) style including buttons linking to the different recipes
 I used some class and id selectors in order to simplify the code.
+
+[Live Demo](https://hlokman.github.io/odin-recipes/)
